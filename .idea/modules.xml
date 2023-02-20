@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../Python+Django Lessons/Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../../Python+Django Lessons/Python/.idea/Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ecommerce_project.iml" filepath="$PROJECT_DIR$/.idea/ecommerce_project.iml" />
     </modules>
   </component>
