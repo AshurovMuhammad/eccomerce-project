@@ -1,2 +1,6 @@
-secret.txt
+.env
 /.idea
+db.sqlite3
+Pipfile
+Pipfile.lock
+manage.py

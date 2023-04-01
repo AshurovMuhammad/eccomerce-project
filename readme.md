@@ -1,1 +1,0 @@
-# Ecommerce project using Django
