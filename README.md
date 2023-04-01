@@ -9,11 +9,11 @@
 ### 6. Aravacha
 ### 7. Yoqtirilgan mahsulotlar saqlash sahifasi
 
-'''python
-def get_name():
-    return "Some name"
-'''
+```Python
+    def get_text():
+        return "Some text"
+```
 
-'''bash
-cd django project
-'''
+```
+    cd django project
+```
