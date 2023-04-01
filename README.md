@@ -8,4 +8,12 @@
 ### 5. Categoriyalar
 ### 6. Aravacha
 ### 7. Yoqtirilgan mahsulotlar saqlash sahifasi
-### .....
+
+'''python
+def get_name():
+    return "Some name"
+'''
+
+'''bash
+cd django project
+'''
